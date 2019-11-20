@@ -2,3 +2,5 @@
 wangxizhi_shenlong_image_list.txt
 祭侄文稿-颜真卿
 yanzhenqing_jizhiwengao_image_list.txt
+书谱-孙过庭
+shunguoting_shupu_image_list.txt
