@@ -4,3 +4,5 @@ wangxizhi_shenlong_image_list.txt
 yanzhenqing_jizhiwengao_image_list.txt
 书谱-孙过庭
 shunguoting_shupu_image_list.txt
+枯树赋-褚遂良
+chushuiliang_kushufu_image_list.txt
