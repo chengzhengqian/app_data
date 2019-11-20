@@ -6,3 +6,5 @@ yanzhenqing_jizhiwengao_image_list.txt
 shunguoting_shupu_image_list.txt
 枯树赋-褚遂良
 chushuiliang_kushufu_image_list.txt
+兰亭序-褚遂良摹本
+chushuiliang_lantingshu_image_list.txt
