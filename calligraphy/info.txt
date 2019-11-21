@@ -8,3 +8,5 @@ shunguoting_shupu_image_list.txt
 chushuiliang_kushufu_image_list.txt
 兰亭序-褚遂良摹本
 chushuiliang_lantingshu_image_list.txt
+温泉铭-李世民
+lishimin_wenquanmin_image_list.txt
