@@ -10,3 +10,5 @@ chushuiliang_kushufu_image_list.txt
 chushuiliang_lantingshu_image_list.txt
 温泉铭-李世民
 lishimin_wenquanmin_image_list.txt
+玄秘塔碑-柳公权
+liugongquan_xuanmita_image_list.txt
