@@ -16,3 +16,5 @@ liugongquan_xuanmita_image_list.txt
 wangxizi_shiqitie_image_list.txt
 神策军碑-柳公权
 liugongquan_shencejunbei_image_list.txt
+多宝塔碑-颜真卿
+yangzhengqing_duobaota_image_list.txt
