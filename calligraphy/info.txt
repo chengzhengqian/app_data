@@ -20,3 +20,5 @@ liugongquan_shencejunbei_image_list.txt
 yangzhengqing_duobaota_image_list.txt
 颜勤礼碑-颜真卿
 yangzhenqian_yanqinli_image_list.txt
+洛神赋-赵孟頫
+zhaomengfu_luoshenfu_image_list.txt
