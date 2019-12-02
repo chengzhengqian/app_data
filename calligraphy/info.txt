@@ -18,3 +18,5 @@ wangxizi_shiqitie_image_list.txt
 liugongquan_shencejunbei_image_list.txt
 多宝塔碑-颜真卿
 yangzhengqing_duobaota_image_list.txt
+颜勤礼碑-颜真卿
+yangzhenqian_yanqinli_image_list.txt
