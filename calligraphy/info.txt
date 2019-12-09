@@ -26,3 +26,5 @@ zhaomengfu_luoshenfu_image_list.txt
 zhongyao_xuanshibiao_image_list.txt
 蜀素帖-米芾
 mifu_shusutie_image_list.txt
+张猛龙碑
+weibei_zhangmenglong_image_list.txt
