@@ -22,3 +22,5 @@ yangzhengqing_duobaota_image_list.txt
 yangzhenqian_yanqinli_image_list.txt
 洛神赋-赵孟頫
 zhaomengfu_luoshenfu_image_list.txt
+宣示表-钟繇
+zhongyao_xuanshibiao_image_list.txt
