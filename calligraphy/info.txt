@@ -24,3 +24,5 @@ yangzhenqian_yanqinli_image_list.txt
 zhaomengfu_luoshenfu_image_list.txt
 宣示表-钟繇
 zhongyao_xuanshibiao_image_list.txt
+蜀素帖-米芾
+mifu_shusutie_image_list.txt
