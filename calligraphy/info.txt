@@ -28,3 +28,5 @@ zhongyao_xuanshibiao_image_list.txt
 mifu_shusutie_image_list.txt
 张猛龙碑
 weibei_zhangmenglong_image_list.txt
+出师表-李邕
+liyong_chushibiao_image_list.txt
