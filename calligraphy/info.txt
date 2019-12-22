@@ -30,3 +30,5 @@ mifu_shusutie_image_list.txt
 weibei_zhangmenglong_image_list.txt
 出师表-李邕
 liyong_chushibiao_image_list.txt
+丧乱得示二谢帖-王羲之
+wangxizhi_shangluantie_image_list.txt
