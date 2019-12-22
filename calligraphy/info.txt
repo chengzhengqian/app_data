@@ -1,4 +1,4 @@
-兰亭序-冯承素摹本
+兰亭序_冯承素摹本-王羲之
 wangxizhi_shenlong_image_list.txt
 祭侄文稿-颜真卿
 yanzhenqing_jizhiwengao_image_list.txt
@@ -6,7 +6,7 @@ yanzhenqing_jizhiwengao_image_list.txt
 shunguoting_shupu_image_list.txt
 枯树赋-褚遂良
 chushuiliang_kushufu_image_list.txt
-兰亭序-褚遂良摹本
+兰亭序_褚遂良摹本-王羲之
 chushuiliang_lantingshu_image_list.txt
 温泉铭-李世民
 lishimin_wenquanmin_image_list.txt
@@ -26,7 +26,7 @@ zhaomengfu_luoshenfu_image_list.txt
 zhongyao_xuanshibiao_image_list.txt
 蜀素帖-米芾
 mifu_shusutie_image_list.txt
-张猛龙碑
+张猛龙碑-北朝碑刻
 weibei_zhangmenglong_image_list.txt
 出师表-李邕
 liyong_chushibiao_image_list.txt
