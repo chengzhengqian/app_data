@@ -34,3 +34,5 @@ liyong_chushibiao_image_list.txt
 wangxizhi_shangluantie_image_list.txt
 洛神赋十三行- 王献之
 wangxianzhi_luoshenfu_image_list.txt
+黄州寒食诗帖-苏轼
+shushi_hanshi_image_list.txt
