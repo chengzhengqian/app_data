@@ -38,3 +38,5 @@ wangxianzhi_luoshenfu_image_list.txt
 shushi_hanshi_image_list.txt
 自叙帖-怀素
 huaishu_zixu_images_list.txt
+前后赤壁赋-赵孟頫
+zhaomengfu_chibifu_image_list.txt
