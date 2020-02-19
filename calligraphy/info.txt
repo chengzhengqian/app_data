@@ -40,3 +40,5 @@ shushi_hanshi_image_list.txt
 huaishu_zixu_images_list.txt
 前后赤壁赋-赵孟頫
 zhaomengfu_chibifu_image_list.txt
+黄庭经-王羲之
+wangxizhi_hangtingjing_image_list.txt
