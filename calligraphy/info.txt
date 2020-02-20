@@ -46,3 +46,5 @@ wangxizhi_hangtingjing_image_list.txt
 zhangxu_gushi_image_list.txt
 心经-张旭
 zhangxu_xinjing_image_list.txt
+乐毅论-王羲之
+zhangxu_yueyilun_image_list.txt
