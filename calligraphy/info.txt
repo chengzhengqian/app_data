@@ -42,3 +42,5 @@ huaishu_zixu_images_list.txt
 zhaomengfu_chibifu_image_list.txt
 黄庭经-王羲之
 wangxizhi_hangtingjing_image_list.txt
+古诗四帖-张旭
+zhangxu_gushi_image_list.txt

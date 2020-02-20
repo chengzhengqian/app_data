@@ -1,0 +1,14 @@
+Will not apply HSTS. The HSTS database must be a regular and non-world-writable file.
+ERROR: could not open HSTS store at '/home/chengzhengqian/.wget-hsts'. HSTS will be disabled.
+--2020-02-19 23:37:51--  http://www.9610.com/wangxizhi/santied.jpg
+Resolving www.9610.com (www.9610.com)... 101.132.185.5
+Connecting to www.9610.com (www.9610.com)|101.132.185.5|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1180072 (1.1M) [image/jpeg]
+Saving to: ‘santied.jpg.1’
+
+     0K .......... .......... .......... .......... ..........  4% 13.2K 84s
+    50K .......... .......... .......... .......... ..........  8% 4.74K 2m31s
+   100K .......... .......... .......... .......... .......... 13% 5.07K 2m42s
+   150K .......... .......... .......... .......... .......... 17% 3.52K 3m3s
+   200K .......... .......... .....
