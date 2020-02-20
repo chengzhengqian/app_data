@@ -44,3 +44,5 @@ zhaomengfu_chibifu_image_list.txt
 wangxizhi_hangtingjing_image_list.txt
 古诗四帖-张旭
 zhangxu_gushi_image_list.txt
+心经-张旭
+zhangxu_xinjing_image_list.txt
