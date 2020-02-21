@@ -52,3 +52,5 @@ zhangxu_yueyilun_image_list.txt
 wangxizhi_xingxiang_image_list.txt
 快雪时晴帖-王羲之
 wangxizhi_kuaixueshiqing_image_list.txt
+化度寺碑-欧阳询
+ouyangxun_huadusi_image_list.txt
