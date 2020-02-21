@@ -54,3 +54,5 @@ wangxizhi_xingxiang_image_list.txt
 wangxizhi_kuaixueshiqing_image_list.txt
 化度寺碑-欧阳询
 ouyangxun_huadusi_image_list.txt
+九成宫醴泉铭-欧阳询
+ouyangxun_jiuchenggong_image_list.txt
