@@ -56,3 +56,5 @@ wangxizhi_kuaixueshiqing_image_list.txt
 ouyangxun_huadusi_image_list.txt
 九成宫醴泉铭-欧阳询
 ouyangxun_jiuchenggong_image_list.txt
+大唐迴元观钟楼铭-柳公权
+liugongquan_huiyuangong_image_list.txt
