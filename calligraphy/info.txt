@@ -48,3 +48,5 @@ zhangxu_gushi_image_list.txt
 zhangxu_xinjing_image_list.txt
 乐毅论-王羲之
 zhangxu_yueyilun_image_list.txt
+行穰帖-王羲之
+wangxizhi_xingxiang_image_list.txt
