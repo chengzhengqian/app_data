@@ -50,3 +50,5 @@ zhangxu_xinjing_image_list.txt
 zhangxu_yueyilun_image_list.txt
 行穰帖-王羲之
 wangxizhi_xingxiang_image_list.txt
+快雪时晴帖-王羲之
+wangxizhi_kuaixueshiqing_image_list.txt
