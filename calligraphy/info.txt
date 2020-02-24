@@ -70,3 +70,5 @@ wangxizhi_daya_image_list.txt
 wangxizi_daya_image_list.txt
 书欧阳修秋声赋卷-赵孟頫
 zhaomengfu_qiushengfu_image_list.txt
+唐怀仁集圣教序(另)-王羲之
+wangxizhi_shengjiaoxu_large_image_list.txt
