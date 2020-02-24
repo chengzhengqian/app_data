@@ -64,3 +64,7 @@ yangzhengqing_dongfangshuo_image_list.txt
 ouyangxun_huangfuyan_image_list.txt
 孔侍中帖-王羲之
 wangxizhi_kongshizhong_image_list.txt
+唐怀仁集圣教序-王羲之
+wangxizhi_daya_image_list.txt
+兴福寺半截碑(大雅)-王羲之
+wangxizi_daya_image_list.txt
