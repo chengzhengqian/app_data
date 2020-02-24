@@ -60,3 +60,5 @@ ouyangxun_jiuchenggong_image_list.txt
 liugongquan_huiyuangong_image_list.txt
 东方朔画赞-颜真卿
 yangzhengqing_dongfangshuo_image_list.txt
+皇甫诞碑-欧阳询
+ouyangxun_huangfuyan_image_list.txt
