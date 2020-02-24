@@ -68,3 +68,5 @@ wangxizhi_kongshizhong_image_list.txt
 wangxizhi_daya_image_list.txt
 兴福寺半截碑(大雅)-王羲之
 wangxizi_daya_image_list.txt
+书欧阳修秋声赋卷-赵孟頫
+zhaomengfu_qiushengfu_image_list.txt
