@@ -74,3 +74,5 @@ zhaomengfu_qiushengfu_image_list.txt
 wangxizhi_shengjiaoxu_large_image_list.txt
 争座位帖-颜真卿
 yanzhenqianzhengzhuowei_image_list.txt
+争座位帖(三井藏本)-颜真卿
+yanzhenqingzzw_sanjin_image_list.txt
