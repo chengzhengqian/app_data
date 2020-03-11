@@ -270,3 +270,5 @@ yanzhenqingzzw_sanjin_image_list.txt
 zhaomengfu_qiuxingfu_image_list.txt
 中郎帖谢安帖-谢安
 xiean_xingshu_image_list.txt
+雁塔圣教序-褚遂良
+chusuiliang_yangtashengjiaoxu_image_list.txt
