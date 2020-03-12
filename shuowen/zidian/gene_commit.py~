@@ -1,0 +1,16 @@
+max_idx=2654
+min_idx=1
+batch_size=100
+current_idx=min_idx
+template="""
+git add {%d..%d}.gif
+git commit -m "guxunhuizhuan%d-%d"
+git push
+"""
+with open("./commit.sh","w") as f:
+    while(current_idx!=max_idx):
+        next_idx=min(current_idx+batch_size,max_idx)
+        f.write(template%(current_idx,next_idx,current_idx,next_idx))
+        current_idx=next_idx
+
+        
