@@ -304,3 +304,7 @@ zhaomengfu_qiuxingfu_image_list.txt
 xiean_xingshu_image_list.txt
 雁塔圣教序-褚遂良
 chusuiliang_yangtashengjiaoxu_image_list.txt
+赵孟頫-老子道德经卷
+zhaomengfu_daodejing_image_list.txt
+魏碑-元怀墓志
+weibei_yuanhuai_image_list.txt
