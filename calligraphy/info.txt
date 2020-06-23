@@ -308,3 +308,5 @@ chusuiliang_yangtashengjiaoxu_image_list.txt
 weibei_yuanhuai_image_list.txt
 与山巨源绝交书-赵孟頫
 zhaomengfu_yushanjuyuanjuejiaoshu_image_list.txt
+道德经-赵孟頫
+zhaomengfu_daodejing_image_list.txt
