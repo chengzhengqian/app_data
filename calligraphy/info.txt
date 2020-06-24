@@ -310,3 +310,5 @@ weibei_yuanhuai_image_list.txt
 zhaomengfu_yushanjuyuanjuejiaoshu_image_list.txt
 道德经-赵孟頫
 zhaomengfu_daodejing_image_list.txt
+乐毅论(另)-王羲之
+wangxizi_yueyilun_alternative_image_list.txt
