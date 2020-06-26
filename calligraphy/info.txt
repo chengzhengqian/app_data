@@ -314,3 +314,5 @@ zhaomengfu_daodejing_image_list.txt
 wangxizi_yueyilun_alternative_image_list.txt
 文赋-陆柬之
 lujianzhi_wenfu_image_list.txt
+苕溪诗卷-米芾
+mifu_shaoxishi_image_list.txt
