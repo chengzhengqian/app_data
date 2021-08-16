@@ -316,3 +316,5 @@ wangxizi_yueyilun_alternative_image_list.txt
 lujianzhi_wenfu_image_list.txt
 苕溪诗卷-米芾
 mifu_shaoxishi_image_list.txt
+礼器碑-汉隶
+liqibei_image_list.txt
