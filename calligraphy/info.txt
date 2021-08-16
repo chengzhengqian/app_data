@@ -318,5 +318,7 @@ lujianzhi_wenfu_image_list.txt
 mifu_shaoxishi_image_list.txt
 礼器碑-汉隶
 liqibei_image_list.txt
-王羲之-普觉国师碑铭帖
+普觉国师碑铭帖-王羲之
 wangxizi_pujueguoshibeiming_image_list.txt
+乙瑛碑-汉隶
+yiyinbei_image_list.txt
