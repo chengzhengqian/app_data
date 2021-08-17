@@ -324,3 +324,5 @@ wangxizi_pujueguoshibeiming_image_list.txt
 yiyinbei_image_list.txt
 曹全碑-汉隶
 caoquanbei_image_list.txt
+曹全碑(高清)-汉隶
+caoquanbeihighresolution_image_list.txt
