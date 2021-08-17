@@ -322,3 +322,5 @@ liqibei_image_list.txt
 wangxizi_pujueguoshibeiming_image_list.txt
 乙瑛碑-汉隶
 yiyinbei_image_list.txt
+曹全碑-汉隶
+caoquanbei_image_list.txt
