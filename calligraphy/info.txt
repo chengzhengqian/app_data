@@ -325,6 +325,6 @@ yiyinbei_image_list.txt
 曹全碑-汉隶
 caoquanbei_image_list.txt
 曹全碑(高清)-汉隶
-caoquanbeihighresolution_image_list.txt
+caoquanbeihighresolutionnew_image_list.txt
 史晨前碑-汉隶
-shichenqianbei_image_list.txt
+shichenqianbeinew_image_list.txt
