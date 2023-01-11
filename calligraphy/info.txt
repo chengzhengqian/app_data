@@ -332,5 +332,3 @@ shichenqianbeinew_image_list.txt
 chusuiliangxinjing_image_list.txt
 前后赤壁赋-文徵明
 wenzhengminchibifu_image_list.txt
-前后赤壁赋-文徵明
-wenzhengminchibifu_image_list.txt
