@@ -330,3 +330,7 @@ caoquanbeihighresolutionnew_image_list.txt
 shichenqianbeinew_image_list.txt
 心经-褚遂良
 chusuiliangxinjing_image_list.txt
+前后赤壁赋-文徵明
+wenzhengminchibifu_image_list.txt
+前后赤壁赋-文徵明
+wenzhengminchibifu_image_list.txt
