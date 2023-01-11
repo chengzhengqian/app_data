@@ -328,3 +328,5 @@ caoquanbei_image_list.txt
 caoquanbeihighresolutionnew_image_list.txt
 史晨前碑-汉隶
 shichenqianbeinew_image_list.txt
+心经-褚遂良
+chusuiliangxinjing_image_list.txt
