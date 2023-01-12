@@ -334,3 +334,5 @@ chusuiliangxinjing_image_list.txt
 wenzhengminchibifu_image_list.txt
 晴热帖-李邕
 libeihaiqingre_image_list.txt
+雁塔圣教序-褚遂良
+ytsjxchusuiliang_image_list.txt
