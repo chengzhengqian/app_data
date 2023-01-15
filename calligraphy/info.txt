@@ -336,3 +336,5 @@ wenzhengminchibifu_image_list.txt
 libeihaiqingre_image_list.txt
 雁塔圣教序-褚遂良
 ytsjxchusuiliang_image_list.txt
+大唐三藏圣教序-褚遂良
+chusuiliangdatangsanzhangshengjiaoxu_image_list.txt
