@@ -342,3 +342,5 @@ chusuiliangdatangsanzhangshengjiaoxu_image_list.txt
 chusuiliangtangfeng_image_list.txt
 元怀墓志(彩)-北朝碑刻
 weibeiyuanhai_color_image_list.txt
+元怀墓志(黑白)-北朝碑刻
+weibeiyuanhai_bw_image_list.txt
