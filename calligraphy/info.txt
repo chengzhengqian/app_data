@@ -338,3 +338,7 @@ libeihaiqingre_image_list.txt
 ytsjxchusuiliang_image_list.txt
 大唐三藏圣教序-褚遂良
 chusuiliangdatangsanzhangshengjiaoxu_image_list.txt
+诗唐风-褚遂良
+chusuiliangtangfeng_image_list.txt
+元怀墓志(彩)-北朝碑刻
+weibeiyuanhai_color_image_list.txt
