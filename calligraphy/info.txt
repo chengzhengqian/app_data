@@ -344,3 +344,5 @@ chusuiliangtangfeng_image_list.txt
 weibeiyuanhai_color_image_list.txt
 元怀墓志(黑白)-北朝碑刻
 weibeiyuanhai_bw_image_list.txt
+麓山寺碑-李邕
+liyonglushan_image_list.txt
